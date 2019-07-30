@@ -48,7 +48,7 @@ case "$1" in
     # If a symlink doesn't exist and can be created, then create it.
     if [ -z $2 ] && [ ! -e /etc/nginx/sites-enabled/default ] &&
        [ -d /etc/nginx/sites-enabled ] && [ -d /etc/nginx/sites-available ]; then
-      ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+      #ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
     fi
 
     # Create a default index page when not already present.
