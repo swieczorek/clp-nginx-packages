@@ -1,6 +1,6 @@
-nginx (1.17.2-5~clp-buster) stable; urgency=medium
+nginx (1.17.2-6~clp-buster) stable; urgency=medium
 
   * NGINX 1.17.2
 
- -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Tue, 30 Jul 2019 21:10:42 -0700
+ -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Thu, 08 Aug 2019 21:10:42 -0700
 
