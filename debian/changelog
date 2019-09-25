@@ -1,3 +1,9 @@
+nginx (1.17.4-1~mgt-buster) stable; urgency=medium
+
+  * NGINX 1.17.4
+
+ -- Stefan Wieczorek <stefan.wieczorek@mgt-commerce.com>  Wed, 25 Sep 2019 21:10:42 -0700
+
 nginx (1.17.3-3~mgt-buster) stable; urgency=medium
 
   * NGINX 1.17.3
