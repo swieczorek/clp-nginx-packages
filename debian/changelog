@@ -1,24 +1,30 @@
-nginx (1.17.5-1~mgt-buster) stable; urgency=medium
+nginx (1.17.6-1~clp-buster) stable; urgency=medium
+
+  * NGINX 1.17.6
+
+ -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Wed, 20 Nov 2019 08:08:08 +0100
+
+nginx (1.17.5-1~clp-buster) stable; urgency=medium
 
   * NGINX 1.17.5
 
- -- Stefan Wieczorek <stefan.wieczorek@mgt-commerce.com>  Wed, 23 Oct 2019 21:10:42 -0700
+ -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Wed, 23 Oct 2019 08:08:08 +0100
 
-nginx (1.17.4-1~mgt-buster) stable; urgency=medium
+nginx (1.17.4-1~clp-buster) stable; urgency=medium
 
   * NGINX 1.17.4
 
- -- Stefan Wieczorek <stefan.wieczorek@mgt-commerce.com>  Wed, 25 Sep 2019 21:10:42 -0700
+ -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Wed, 25 Sep 2019 08:08:08 +0100
 
-nginx (1.17.3-3~mgt-buster) stable; urgency=medium
+nginx (1.17.3-3~clp-buster) stable; urgency=medium
 
   * NGINX 1.17.3
 
- -- Stefan Wieczorek <stefan.wieczorek@mgt-commerce.com>  Wed, 04 Sep 2019 21:10:42 -0700
+ -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Wed, 04 Sep 2019 08:08:08 +0100
 
-nginx (1.17.2-6~mgt-buster) stable; urgency=medium
+nginx (1.17.2-6~clp-buster) stable; urgency=medium
 
   * NGINX 1.17.2
 
- -- Stefan Wieczorek <stefan.wieczorek@mgt-commerce.com>  Thu, 08 Aug 2019 21:10:42 -0700
+ -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Thu, 08 Aug 2019 08:08:08 +0100
 
