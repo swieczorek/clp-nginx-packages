@@ -1,3 +1,10 @@
+nginx (1.17.8-2~clp-buster) stable; urgency=medium
+
+  * NGINX 1.17.8
+  * GZIP SVG
+
+ -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Tue, 03 Mar 2020 08:08:08 +0100
+
 nginx (1.17.8-1~clp-buster) stable; urgency=medium
 
   * NGINX 1.17.8
