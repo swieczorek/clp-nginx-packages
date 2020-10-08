@@ -1,6 +1,6 @@
-nginx (1.18.0-3~clp-buster) stable; urgency=medium
+nginx (1.18.0-4~clp-buster) stable; urgency=medium
 
-  * Add brotli module
+  * Add and enable brotli module
 
  -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Thu, 08 Oct 2020 08:08:08 +0100
 
