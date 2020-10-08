@@ -24,6 +24,7 @@ DYN_MODS := \
 	http-xslt-filter \
 	mail \
 	nchan \
+	ngx-brotli \
 	rtmp \
 	stream
 
@@ -69,7 +70,8 @@ common_configure_flags := \
 			--with-http_v2_module \
 			--with-http_dav_module \
 			--with-http_slice_module \
-			--with-threads
+			--with-threads \
+			--add-dynamic-module=$(MODULESDIR)/ngx-brotli
 
 light_configure_flags := \
 			$(common_configure_flags) \

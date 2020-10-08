@@ -1,8 +1,8 @@
 nginx (1.18.0-2~clp-buster) stable; urgency=medium
 
-  * Include security file for protection against attacks
+  * Add brotli module
 
- -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Wed, 30 Sep 2020 08:08:08 +0100
+ -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Thu, 08 Oct 2020 08:08:08 +0100
 
 nginx (1.18.0-1~clp-buster) stable; urgency=medium
 

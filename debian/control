@@ -70,6 +70,7 @@ Depends: libnginx-mod-http-auth-pam (= ${binary:Version}),
          libnginx-mod-http-echo (= ${binary:Version}),
          libnginx-mod-http-geoip (= ${binary:Version}),
          libnginx-mod-http-image-filter (= ${binary:Version}),
+         libnginx-mod-ngx-brotli (= ${binary:Version}),
          libnginx-mod-http-subs-filter (= ${binary:Version}),
          libnginx-mod-http-upstream-fair (= ${binary:Version}),
          libnginx-mod-http-xslt-filter (= ${binary:Version}),
@@ -291,6 +292,11 @@ Description: Fast, flexible pub/sub server for Nginx
  nginx server instances with Redis.
  .
  Full documentation available at https://nchan.slact.net
+
+Package: libnginx-mod-ngx-brotli
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm, Huffman coding and 2nd order context modeling, with a compression ratio comparable to the best currently available general-purpose compression methods. It is similar in speed with deflate but offers more dense compression.
 
 Package: libnginx-mod-http-echo
 Architecture: any
