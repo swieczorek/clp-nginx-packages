@@ -1,4 +1,4 @@
-nginx (1.18.0-2~clp-buster) stable; urgency=medium
+nginx (1.18.0-3~clp-buster) stable; urgency=medium
 
   * Add brotli module
 
