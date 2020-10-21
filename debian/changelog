@@ -1,6 +1,6 @@
-nginx (1.18.0-6~clp-buster) stable; urgency=medium
+nginx (1.18.0-5~clp-buster) stable; urgency=medium
 
-  * Add and enable the pagespeed module
+  * Add pagespeed module
 
  -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Wed, 21 Oct 2020 08:08:08 +0100
 
