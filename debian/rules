@@ -25,6 +25,7 @@ DYN_MODS := \
 	mail \
 	nchan \
 	ngx-brotli \
+	ngx-pagespeed \
 	rtmp \
 	stream
 
@@ -71,7 +72,8 @@ common_configure_flags := \
 			--with-http_dav_module \
 			--with-http_slice_module \
 			--with-threads \
-			--add-dynamic-module=$(MODULESDIR)/ngx-brotli
+			--add-dynamic-module=$(MODULESDIR)/ngx-brotli \
+			--add-dynamic-module=$(MODULESDIR)/ngx-pagespeed
 
 light_configure_flags := \
 			$(common_configure_flags) \
