@@ -160,7 +160,8 @@ debug PSOL you need to build it from source.  If you just want to run nginx with
 debug-level logging you can use the Release binaries."
       echo -n "
 Use the available Release binaries?"
-      read -p " [Y/n] " yn
+      #read -p " [Y/n] " yn
+      yn=y
       if [[ "$yn" == N* || "$yn" == n* ]]; then
         echo "Cancelled."
         exit 1
