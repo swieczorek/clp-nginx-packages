@@ -1,0 +1,1 @@
+2018-01-25: Copied from mod_pagespeed https://github.com/pagespeed/mod_pagespeed.git@d62018b6eb6f7f5048bd357d7a497fc0ea7cd79e (oschaaf)
