@@ -1,4 +1,0 @@
-map $http_user_agent $bad_bot {
-  default 0;
-   ~(?i)(Ahrefsbot|Baiduspider|YandexBot|FatBot|Baidu|Twengabot|BLEXBot) 1;
-}
