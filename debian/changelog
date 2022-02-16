@@ -1,3 +1,9 @@
+nginx (1.21.6-1~clp-bullseye) stable; urgency=medium
+
+  * NGINX 1.21.6
+
+ -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Wed, 16 Feb 2022 08:08:08 +0100
+
 nginx (1.21.3-3~clp-bullseye) stable; urgency=medium
 
   * NGINX 1.21.3
