@@ -67,8 +67,8 @@ else
   exit 1
 fi
 
-if [ $uname_arch = 'x86_64' -o $uname_arch = 'amd64' ]; then
-  arch_name='x64'
+if [ $uname_arch = 'aarch64' -o $uname_arch = 'amd64' ]; then
+  arch_name='aarch64'
 elif [ $uname_arch = 'x86_32' -o $uname_arch = 'i686' \
                               -o $uname_arch = 'i386' ]; then
   arch_name='ia32'
