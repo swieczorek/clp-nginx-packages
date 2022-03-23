@@ -1,1 +1,1 @@
-2018-01-25: Copied from mod_pagespeed https://github.com/pagespeed/mod_pagespeed.git@d62018b6eb6f7f5048bd357d7a497fc0ea7cd79e (oschaaf)
+2020-05-11: Copied from mod_pagespeed https://github.com/apache/incubator-pagespeed-mod.git@409bd76fd6eafc4cf1c414e679f3e912447a6a31 (root)
