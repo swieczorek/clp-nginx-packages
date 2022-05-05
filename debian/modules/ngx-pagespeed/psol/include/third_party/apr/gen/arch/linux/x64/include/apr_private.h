@@ -381,7 +381,7 @@
 #define HAVE_PTHREAD_RWLOCK_INIT 1
 
 /* Define to 1 if you have the `pthread_yield' function. */
-#define HAVE_PTHREAD_YIELD 1
+#define HAVE_PTHREAD_YIELD 0
 
 /* Define to 1 if you have the `putenv' function. */
 #define HAVE_PUTENV 1
