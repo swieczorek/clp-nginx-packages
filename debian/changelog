@@ -1,5 +1,5 @@
-nginx (1.21.4-13+clp-jammy) stable; urgency=medium
+nginx (1.21.4-14+clp-jammy) stable; urgency=medium
 
   * NGINX 1.21.4
 
- -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Mon, 09 May 2022 08:08:08 +0100
+ -- Stefan Wieczorek <stefan.wieczorek@cloudpanel.io>  Thu, 17 Nov 2022 08:08:08 +0100
